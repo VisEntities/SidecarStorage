@@ -6,7 +6,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Sidecar Storage", "VisEntities", "1.0.0")]
-    [Description("Adds stash containers to sidecars.")]
+    [Description("Adds stash containers to motorbike sidecars.")]
     public class SidecarStorage : RustPlugin
     {
         #region Fields
